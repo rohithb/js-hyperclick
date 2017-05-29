@@ -1,6 +1,8 @@
 # js-hyperclick package
 
-A [hyperclick][hyperclick] provider that lets you jump to where variables are defined.
+A [hyperclick][hyperclick] provider that lets you jump to where variables are defined.  
+
+This is fork of https://github.com/AsaAyers/js-hyperclick  with support for **absolute paths**.  
 
 ![screenshot]( https://raw.githubusercontent.com/AsaAyers/js-hyperclick/master/screenshots/Selection_107.png)
 
