@@ -1,10 +1,10 @@
 {
-  "name": "js-hyperclick",
+  "name": "js-hyperclick-project-path",
   "main": "./lib/js-hyperclick",
   "version": "1.9.0",
-  "description": "A hyperclick provider that lets you jump to where variables are defined.",
+  "description": "A hyperclick provider that lets you jump to where variables are defined with project path support.",
   "keywords": [],
-  "repository": "https://github.com/AsaAyers/js-hyperclick",
+  "repository": "https://github.com/rohithb/js-hyperclick-project-path",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
